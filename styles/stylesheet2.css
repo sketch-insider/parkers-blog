@@ -1,0 +1,51 @@
+header {
+	padding: 0;
+	margin: 0;
+	background-color: #DE4A2F;
+	text-align: center;
+	height: 90px;
+	align-content: center;
+	font-family: Comic Sans MS;
+}
+body {
+	background-color: #F0806C;
+	padding: 0;
+	margin: 0;
+	font-family: Comic Sans MS;
+	float: left;
+}
+main {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+#textind {
+	width: 47%;
+	float: left;
+}
+img {
+	width: 25%;
+}
+.entries {
+	background-color: #E2C88E;
+	padding: 10px;
+	margin: 10px;
+}
+nav {
+	padding-bottom: 10px;
+}
+#coding {
+	width: 75%;
+	float: left;
+}
+#gaming {
+	width: 75%;
+	float: right;
+	clear: both;
+	text-align: right;
+}
+#smoking {
+	width: 75%;
+	float: left;
+	clear: both;
+}
