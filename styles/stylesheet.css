@@ -38,21 +38,38 @@ nav {
 #coding {
 	width: 75%;
 	float: left;
+	background-color: #E2C88E;
+	margin: 10px;
+	padding-left: 10px;
 }
 #gaming {
 	width: 75%;
 	float: right;
 	clear: both;
 	text-align: right;
+	background-color: #E2C88E;
+	margin: 10px;
+	padding-right: 10px;
 }
 #smoking {
 	width: 75%;
 	float: left;
 	clear: both;
+	background-color: #E2C88E;
+	margin: 10px;
+	padding-left: 10px;
 }
 #cooking {
 	width: 75%;
 	float: right;
 	clear: both;
 	text-align: right;
+	background-color: #E2C88E;
+	margin: 10px;
+	padding-right: 10px;
+}
+hr {
+  height: 2px;
+  background-color: #000000;
+  border: none;
 }
