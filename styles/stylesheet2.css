@@ -25,6 +25,7 @@ main {
 }
 img {
 	width: 25%;
+	padding: 10px;
 }
 .entries {
 	background-color: #E2C88E;
