@@ -27,6 +27,7 @@ main {
 img {
 	width: 25%;
 	float: right;
+	padding: 10px;
 }
 .entries {
 	background-color: #E2C88E;
